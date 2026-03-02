@@ -1,0 +1,5 @@
+{
+  "name": "NEO-OS: Hacking Portfolio",
+  "description": "An immersive, interactive desktop-like portfolio with retro hacker aesthetics. Built with React, TypeScript, and Vite. Features draggable windows, terminal interface, project showcase, and more.",
+  "requestFramePermissions": []
+}
