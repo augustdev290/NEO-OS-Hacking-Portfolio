@@ -4,6 +4,10 @@
 
 NEO-OS reimagines the traditional portfolio website by creating a fully functional desktop-like experience in your browser. Users can interact with multiple applications simultaneously through draggable, resizable windows—just like a real OS. The clean typography, glowing effects, and dark theme create an authentic retro-computing atmosphere that perfectly showcases your technical skills.
 
+<img width="1908" height="912" alt="Screenshot 2026-02-26 203141" src="https://github.com/user-attachments/assets/981821f0-d2e9-4fb4-9770-568bc06d739c" />
+<img width="1915" height="916" alt="Screenshot 2026-02-26 203208" src="https://github.com/user-attachments/assets/c6ce6b0e-1722-43f1-a7d3-ee65fe5ffb54" />
+
+
 ### Key Concept
 Instead of scrolling through a standard portfolio page, visitors explore your work through interactive applications:
 - **Terminal.io** - Interactive command-line interface
