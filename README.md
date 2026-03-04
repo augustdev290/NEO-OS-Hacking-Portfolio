@@ -102,7 +102,7 @@ Instead of scrolling through a standard portfolio page, visitors explore your wo
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/lunia290/NEO-OS-Hacking-Portfolio.git
+git clone https://github.com/augustdev290/NEO-OS-Hacking-Portfolio.git
 cd NEO-OS-Hacking-Portfolio
 ```
 
